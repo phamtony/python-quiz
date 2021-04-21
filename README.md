@@ -1,4 +1,4 @@
-# python-quiz
+# Quiz built on Python
 
-
-python quiz game. keeps score while answering a number of questions.
+Brushing up on python basicss with data structure.
+Quiz game, keeps score while answering a number of questions.
